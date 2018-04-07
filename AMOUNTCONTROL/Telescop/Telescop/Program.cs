@@ -7,7 +7,18 @@ using System.Windows.Forms;
 
 namespace Telescop
 {
-    
+    class LastControl
+    {
+        public int Axis;
+        public int Focus;
+    }
+
+    class RaRa
+    {
+        public double myX;
+        public double myY;
+        public int F;
+    }
     class MyFun
     {
         public string N_port = "";

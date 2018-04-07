@@ -52,7 +52,7 @@ namespace Telescop
                 // string Com_port_text
 
 
-                MessageBox.Show("Выбран порт:  " + listBox1.SelectedItem);
+               // MessageBox.Show("Выбран порт:  " + listBox1.SelectedItem);
 
             this.Hide();
         }
